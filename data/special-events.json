@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-09-12T10:36:38-05:00",
+  "updatedAt": "2026-09-12T15:38:36-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Ames Main Street Farmers’ Market",
-      "when": "12 Sep 8:00 am - 12:30 pm",
-      "location": "Downtown Ames",
-      "url": "https://discoverames.com/events/ames-main-street-farmers-market-91/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Day Out with Thomas",
       "when": "12 Sep 9:00 am - 5:00 pm",
