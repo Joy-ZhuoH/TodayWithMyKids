@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-09-12T18:04:47-05:00",
+  "updatedAt": "2026-09-12T23:56:12-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Day Out with Thomas",
-      "when": "12 Sep 9:00 am - 5:00 pm",
-      "location": "Boone & Scenic Valley Railroad",
-      "url": "https://discoverames.com/events/day-out-with-thomas-4/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Day Out with Thomas",
       "when": "13 Sep 10:00 am - 4:00 pm",
