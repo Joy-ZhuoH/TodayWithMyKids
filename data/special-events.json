@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T07:59:17-05:00",
+  "updatedAt": "2026-09-14T14:52:01-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -56,6 +56,22 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-09-18",
       "endDate": "2026-09-18",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Ames Main Street Farmers’ Market",
+      "when": "19 Sep 8:00 am - 12:30 pm",
+      "location": "Downtown Ames",
+      "url": "https://discoverames.com/events/ames-main-street-farmers-market-92/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
       "ageGroups": [
         "baby",
         "toddler",
