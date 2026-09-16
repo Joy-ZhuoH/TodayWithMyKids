@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T23:56:11-05:00",
+  "updatedAt": "2026-09-16T06:46:00-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -67,15 +67,16 @@
       ]
     },
     {
-      "title": "Nature Playdates",
-      "when": "SEP 15 2026 10:00 AM",
-      "location": "McFarland Park",
-      "url": "https://www.mycountyparks.com/County/Story/Park/McFarland-Park/Events/29399/Nature-Playdates",
-      "source": "Story County",
-      "confidence": "主办方已核对",
-      "startDate": "2026-09-15",
-      "endDate": "2026-09-15",
+      "title": "Prairie Seed Harvest at Prairie Valley Preserve",
+      "when": "22 Sep 1:00 pm - 2:30 pm",
+      "location": "Prairie Valley Preserve",
+      "url": "https://discoverames.com/events/prairie-seed-harvest-at-prairie-valley-preserve-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-22",
+      "endDate": "2026-09-22",
       "ageGroups": [
+        "baby",
         "toddler",
         "preschool",
         "schoolage"
