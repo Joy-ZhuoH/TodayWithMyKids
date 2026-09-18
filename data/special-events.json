@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-09-17T23:51:44-05:00",
+  "updatedAt": "2026-09-18T06:25:34-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Music Walk",
-      "when": "17 Sep 5:00 pm - 8:00 pm",
-      "location": "Downtown Ames",
-      "url": "https://discoverames.com/events/music-walk-4/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-17",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Day Out with Thomas",
       "when": "18 Sep 12:00 pm - 5:00 pm",
