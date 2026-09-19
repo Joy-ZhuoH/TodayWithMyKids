@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-09-18T23:43:58-05:00",
+  "updatedAt": "2026-09-19T06:09:12-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Day Out with Thomas",
-      "when": "18 Sep 12:00 pm - 5:00 pm",
-      "location": "Boone & Scenic Valley Railroad",
-      "url": "https://discoverames.com/events/day-out-with-thomas-6/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Ames Main Street Farmers’ Market",
       "when": "19 Sep 8:00 am - 12:30 pm",
@@ -63,6 +47,35 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Prairie Seed Harvest at Prairie Valley Preserve",
+      "when": "23 Sep 4:30 pm - 6:30 pm",
+      "location": "Prairie Valley Preserve",
+      "url": "https://discoverames.com/events/prairie-seed-harvest-at-prairie-valley-preserve/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Adventures in Embroidery: Crewel",
+      "when": "23 Sep 6:30 pm - 8:30 pm",
+      "location": "Prairie Rose Needleworks",
+      "url": "https://discoverames.com/events/adventures-in-embroidery-crewel/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-23",
+      "endDate": "2026-09-23",
+      "ageGroups": [
         "schoolage"
       ]
     },
