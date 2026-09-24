@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T00:00:53-05:00",
+  "updatedAt": "2026-09-24T06:55:45-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -11,6 +11,38 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Sam’s Place Presents: Madison Kolbet",
+      "when": "26 Sep 9:00 pm",
+      "location": "Sam's Place",
+      "url": "https://discoverames.com/events/sams-place-presents-madison-kolbet/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Ames Documentary Film Festival",
+      "when": "27 Sep",
+      "location": "Ames Public Library",
+      "url": "https://discoverames.com/events/ames-documentary-film-festival/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
       "ageGroups": [
         "baby",
         "toddler",
