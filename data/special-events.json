@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T00:04:40-05:00",
+  "updatedAt": "2026-09-25T06:57:48-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -39,6 +39,22 @@
       "when": "27 Sep",
       "location": "Ames Public Library",
       "url": "https://discoverames.com/events/ames-documentary-film-festival/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "The 55th Annual Octagon Art Festival",
+      "when": "27 Sep",
+      "location": "Ames Main Street",
+      "url": "https://discoverames.com/events/the-octagon-art-festival-2/",
       "source": "Discover Ames",
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-09-27",
