@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-09-26T18:40:57-05:00",
+  "updatedAt": "2026-09-27T00:25:19-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Sam’s Place Presents: Madison Kolbet",
-      "when": "26 Sep 9:00 pm",
-      "location": "Sam's Place",
-      "url": "https://discoverames.com/events/sams-place-presents-madison-kolbet/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Ames Documentary Film Festival",
       "when": "27 Sep",
