@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T00:25:19-05:00",
+  "updatedAt": "2026-09-27T07:11:12-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -31,6 +31,19 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Needles & Pints: Sashiko Coasters",
+      "when": "30 Sep 6:30 pm - 8:00 pm",
+      "location": "Torrent Brewing Company",
+      "url": "https://discoverames.com/events/needles-pints-sashiko-coasters/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "ageGroups": [
         "schoolage"
       ]
     },
