@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:08:18-05:00",
+  "updatedAt": "2026-09-28T16:15:52-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -11,6 +11,67 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-09-30",
       "endDate": "2026-09-30",
+      "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "B-Inspired 5K & Kids Dash",
+      "when": "03 Oct 8:30 am",
+      "location": "Iowa Arboretum",
+      "url": "https://discoverames.com/events/b-inspired-5k-kids-dash/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Ames Main Street Farmers’ Market",
+      "when": "03 Oct 9:00 am - 12:30 pm",
+      "location": "Downtown Ames",
+      "url": "https://discoverames.com/events/ames-main-street-farmers-market-94/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "The Pumpkin Express",
+      "when": "03 Oct 10:00 am - 11:30 am",
+      "location": "Boone & Scenic Valley Railroad",
+      "url": "https://discoverames.com/events/the-pumpkin-express-10/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Trick or Treat Night at Breezy Bay Campground",
+      "when": "03 Oct 5:00 pm - 7:00 pm",
+      "location": "Breezy Bay Campground",
+      "url": "https://discoverames.com/events/trick-or-treat-night-at-breezy-bay-campground-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
       "ageGroups": [
         "schoolage"
       ]
