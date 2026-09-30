@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T00:40:57-05:00",
+  "updatedAt": "2026-09-30T07:44:52-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -73,6 +73,22 @@
       "startDate": "2026-10-03",
       "endDate": "2026-10-03",
       "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Lucky Star Fall Market",
+      "when": "04 Oct 11:00 am - 4:00 pm",
+      "location": "Fareway Parking Lot",
+      "url": "https://discoverames.com/events/lucky-star-fall-market/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-04",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
         "schoolage"
       ]
     },
