@@ -1,20 +1,7 @@
 {
-  "updatedAt": "2026-09-30T19:36:05-05:00",
+  "updatedAt": "2026-10-01T05:16:16-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Needles & Pints: Sashiko Coasters",
-      "when": "30 Sep 6:30 pm - 8:00 pm",
-      "location": "Torrent Brewing Company",
-      "url": "https://discoverames.com/events/needles-pints-sashiko-coasters/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "B-Inspired 5K & Kids Dash",
       "when": "03 Oct 8:30 am",
@@ -87,6 +74,47 @@
       "endDate": "2026-10-04",
       "ageGroups": [
         "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Trick or Treat Night at Breezy Bay Campground",
+      "when": "October 3, 2026, 5:00 PM - 7:00 PM",
+      "location": "Hickory Grove Park",
+      "url": "https://www.storycountyiowa.gov/Calendar.aspx?EID=3561&month=10&year=2026&day=3&calType=0",
+      "source": "Story County",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Trick or Treat Night at Dakins Lake Campground",
+      "when": "October 17, 2026, 5:00 PM - 7:00 PM",
+      "location": "Dakins Lake",
+      "url": "https://www.storycountyiowa.gov/Calendar.aspx?EID=3562&month=10&year=2026&day=17&calType=0",
+      "source": "Story County",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Nature Playdates",
+      "when": "OCT 20 2026 10:00 AM",
+      "location": "McFarland Park",
+      "url": "https://www.mycountyparks.com/County/Story/Park/McFarland-Park/Events/29403/Nature-Playdates",
+      "source": "Story County",
+      "confidence": "主办方已核对",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-20",
+      "ageGroups": [
         "toddler",
         "preschool",
         "schoolage"
