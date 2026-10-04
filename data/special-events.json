@@ -1,36 +1,7 @@
 {
-  "updatedAt": "2026-10-03T16:25:36-05:00",
+  "updatedAt": "2026-10-04T01:01:47-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "B-Inspired 5K & Kids Dash",
-      "when": "03 Oct 8:30 am",
-      "location": "Iowa Arboretum",
-      "url": "https://discoverames.com/events/b-inspired-5k-kids-dash/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-03",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Trick or Treat Night at Breezy Bay Campground",
-      "when": "03 Oct 5:00 pm - 7:00 pm",
-      "location": "Breezy Bay Campground",
-      "url": "https://discoverames.com/events/trick-or-treat-night-at-breezy-bay-campground-2/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-03",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "Lucky Star Fall Market",
       "when": "04 Oct 11:00 am - 4:00 pm",
@@ -44,19 +15,6 @@
         "baby",
         "toddler",
         "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Trick or Treat Night at Breezy Bay Campground",
-      "when": "October 3, 2026, 5:00 PM - 7:00 PM",
-      "location": "Hickory Grove Park",
-      "url": "https://www.storycountyiowa.gov/Calendar.aspx?EID=3561&month=10&year=2026&day=3&calType=0",
-      "source": "Story County",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-03",
-      "ageGroups": [
         "schoolage"
       ]
     },
