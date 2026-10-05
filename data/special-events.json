@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T00:51:23-05:00",
+  "updatedAt": "2026-10-05T09:54:01-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -11,6 +11,38 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-10-07",
       "endDate": "2026-10-07",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Spirits in the Gardens",
+      "when": "09 Oct 6:00 pm - 10:00 pm",
+      "location": "Reiman Gardens",
+      "url": "https://discoverames.com/events/spirits-in-the-gardens-10/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Ames Main Street Farmers’ Market",
+      "when": "10 Oct 9:00 am - 12:30 pm",
+      "location": "Downtown Ames",
+      "url": "https://discoverames.com/events/ames-main-street-farmers-market-95/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
       "ageGroups": [
         "baby",
         "toddler",
