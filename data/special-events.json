@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T20:15:29-05:00",
+  "updatedAt": "2026-10-09T05:42:21-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -55,6 +55,38 @@
       "when": "10 Oct 10:00 am - 11:30 am",
       "location": "Boone & Scenic Valley Railroad",
       "url": "https://discoverames.com/events/the-pumpkin-express-11/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Explore! Wild About Woods",
+      "when": "10 Oct 10:00 am - 1:00 pm",
+      "location": "Brunnier Art Museum",
+      "url": "https://discoverames.com/events/explore-wild-about-woods/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Spirits in the Gardens",
+      "when": "10 Oct 5:00 pm - 10:00 pm",
+      "location": "Reiman Gardens",
+      "url": "https://discoverames.com/events/spirits-in-the-gardens-11/",
       "source": "Discover Ames",
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-10-10",
