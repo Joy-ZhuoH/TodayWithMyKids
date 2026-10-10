@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-10-09T19:57:39-05:00",
+  "updatedAt": "2026-10-10T04:58:14-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Home Voices Festival",
-      "when": "09 Oct 1:00 pm - 8:30 pm",
-      "location": "Octagon Center for the Arts",
-      "url": "https://discoverames.com/events/home-voices-festival-2/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Spirits in the Gardens",
-      "when": "09 Oct 6:00 pm - 10:00 pm",
-      "location": "Reiman Gardens",
-      "url": "https://discoverames.com/events/spirits-in-the-gardens-10/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-09",
-      "endDate": "2026-10-09",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Ames Main Street Farmers’ Market",
       "when": "10 Oct 9:00 am - 12:30 pm",
@@ -91,6 +59,22 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-10-10",
       "endDate": "2026-10-10",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Spirits in the Gardens",
+      "when": "11 Oct 5:00 pm - 9:00 pm",
+      "location": "Reiman Gardens",
+      "url": "https://discoverames.com/events/spirits-in-the-gardens-12/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
       "ageGroups": [
         "baby",
         "toddler",
