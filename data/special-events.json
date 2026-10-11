@@ -1,71 +1,7 @@
 {
-  "updatedAt": "2026-10-10T16:50:46-05:00",
+  "updatedAt": "2026-10-11T00:58:11-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Ames Main Street Farmers’ Market",
-      "when": "10 Oct 9:00 am - 12:30 pm",
-      "location": "Downtown Ames",
-      "url": "https://discoverames.com/events/ames-main-street-farmers-market-95/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-10",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "The Pumpkin Express",
-      "when": "10 Oct 10:00 am - 11:30 am",
-      "location": "Boone & Scenic Valley Railroad",
-      "url": "https://discoverames.com/events/the-pumpkin-express-11/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-10",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Explore! Wild About Woods",
-      "when": "10 Oct 10:00 am - 1:00 pm",
-      "location": "Brunnier Art Museum",
-      "url": "https://discoverames.com/events/explore-wild-about-woods/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-10",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Spirits in the Gardens",
-      "when": "10 Oct 5:00 pm - 10:00 pm",
-      "location": "Reiman Gardens",
-      "url": "https://discoverames.com/events/spirits-in-the-gardens-11/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-10",
-      "endDate": "2026-10-10",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Spirits in the Gardens",
       "when": "11 Oct 5:00 pm - 9:00 pm",
