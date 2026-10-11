@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T08:03:04-05:00",
+  "updatedAt": "2026-10-11T14:35:30-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -15,6 +15,32 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Campustown Fall Classic",
+      "when": "14 Oct 4:00 pm - 7:00 pm",
+      "location": "Campustown",
+      "url": "https://discoverames.com/events/campustown-fall-classic-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Photo Embroidery",
+      "when": "14 Oct 6:30 pm - 8:30 pm",
+      "location": "Octagon Center for the Arts",
+      "url": "https://discoverames.com/events/photo-embroidery/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "ageGroups": [
         "schoolage"
       ]
     },
