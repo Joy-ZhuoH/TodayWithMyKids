@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T06:02:37-05:00",
+  "updatedAt": "2026-10-12T16:18:28-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -25,6 +25,70 @@
       "startDate": "2026-10-14",
       "endDate": "2026-10-14",
       "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "ISU Wind Ensemble – Sensory/Child Friendly Concert",
+      "when": "16 Oct 5:30 pm",
+      "location": "Tye Recital Hall",
+      "url": "https://discoverames.com/events/isu-wind-ensemble-sensory-child-friendly-concert/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-16",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Ames Main Street Farmers’ Market",
+      "when": "17 Oct 9:00 am - 12:30 pm",
+      "location": "Downtown Ames",
+      "url": "https://discoverames.com/events/ames-main-street-farmers-market-96/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "The Pumpkin Express",
+      "when": "17 Oct 10:00 am - 11:30 am",
+      "location": "Boone & Scenic Valley Railroad",
+      "url": "https://discoverames.com/events/the-pumpkin-express-12/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "International Friendship Fair",
+      "when": "17 Oct 10:30 am - 12:00 pm",
+      "location": "Ames Public Library",
+      "url": "https://discoverames.com/events/international-friendship-fair-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
         "schoolage"
       ]
     },
