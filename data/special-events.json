@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-10-11T19:36:56-05:00",
+  "updatedAt": "2026-10-12T06:02:37-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Spirits in the Gardens",
-      "when": "11 Oct 5:00 pm - 9:00 pm",
-      "location": "Reiman Gardens",
-      "url": "https://discoverames.com/events/spirits-in-the-gardens-12/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-11",
-      "endDate": "2026-10-11",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Campustown Fall Classic",
       "when": "14 Oct 4:00 pm - 7:00 pm",
