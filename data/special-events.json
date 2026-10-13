@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T01:52:29-05:00",
+  "updatedAt": "2026-10-13T11:59:47-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -81,6 +81,22 @@
       "when": "17 Oct 10:30 am - 12:00 pm",
       "location": "Ames Public Library",
       "url": "https://discoverames.com/events/international-friendship-fair-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Cy’s Halloween Story Time",
+      "when": "17 Oct 10:30 am - 11:15 am",
+      "location": "ISU Bookstore",
+      "url": "https://discoverames.com/events/cys-halloween-story-time/",
       "source": "Discover Ames",
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-10-17",
