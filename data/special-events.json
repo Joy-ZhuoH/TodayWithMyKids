@@ -1,33 +1,7 @@
 {
-  "updatedAt": "2026-10-14T23:50:18-05:00",
+  "updatedAt": "2026-10-15T06:40:44-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Campustown Fall Classic",
-      "when": "14 Oct 4:00 pm - 7:00 pm",
-      "location": "Campustown",
-      "url": "https://discoverames.com/events/campustown-fall-classic-2/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Photo Embroidery",
-      "when": "14 Oct 6:30 pm - 8:30 pm",
-      "location": "Octagon Center for the Arts",
-      "url": "https://discoverames.com/events/photo-embroidery/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-14",
-      "endDate": "2026-10-14",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "ISU Wind Ensemble – Sensory/Child Friendly Concert",
       "when": "16 Oct 5:30 pm",
@@ -105,6 +79,19 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Trick or Treat Night at Dakins Lake Campground",
+      "when": "17 Oct 5:00 pm - 7:00 pm",
+      "location": "Dakins Lake Campground",
+      "url": "https://discoverames.com/events/trick-or-treat-night-at-dakins-lake-campground/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "ageGroups": [
         "schoolage"
       ]
     },
