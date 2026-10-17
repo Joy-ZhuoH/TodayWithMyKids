@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-10-16T16:20:03-05:00",
+  "updatedAt": "2026-10-16T23:38:00-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "ISU Wind Ensemble – Sensory/Child Friendly Concert",
-      "when": "16 Oct 5:30 pm",
-      "location": "Tye Recital Hall",
-      "url": "https://discoverames.com/events/isu-wind-ensemble-sensory-child-friendly-concert/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-16",
-      "endDate": "2026-10-16",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Ames Main Street Farmers’ Market",
       "when": "17 Oct 9:00 am - 12:30 pm",
