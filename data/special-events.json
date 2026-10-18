@@ -1,17 +1,33 @@
 {
-  "updatedAt": "2026-10-17T23:43:35-05:00",
+  "updatedAt": "2026-10-18T06:19:38-05:00",
   "windowDays": 120,
   "events": [
     {
-      "title": "Trick or Treat Night at Dakins Lake Campground",
-      "when": "October 17, 2026, 5:00 PM - 7:00 PM",
-      "location": "Dakins Lake",
-      "url": "https://www.storycountyiowa.gov/Calendar.aspx?EID=3562&month=10&year=2026&day=17&calType=0",
-      "source": "Story County",
+      "title": "Howler Growler: DIY Halloween Arrangements",
+      "when": "24 Oct 10:00 am - 12:00 pm",
+      "location": "Wheatsfield Co-op",
+      "url": "https://discoverames.com/events/howler-growler-diy-halloween-arrangements/",
+      "source": "Discover Ames",
       "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-17",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
       "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "The Howling",
+      "when": "24 Oct 1:00 pm - 9:00 pm",
+      "location": "Alluvial Brewing",
+      "url": "https://discoverames.com/events/the-howling-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
         "schoolage"
       ]
     },
