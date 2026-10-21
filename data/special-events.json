@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T23:58:32-05:00",
+  "updatedAt": "2026-10-21T07:00:14-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -42,21 +42,6 @@
       "endDate": "2026-10-24",
       "ageGroups": [
         "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Nature Playdates",
-      "when": "OCT 20 2026 10:00 AM",
-      "location": "McFarland Park",
-      "url": "https://www.mycountyparks.com/County/Story/Park/McFarland-Park/Events/29403/Nature-Playdates",
-      "source": "Story County",
-      "confidence": "主办方已核对",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "ageGroups": [
         "toddler",
         "preschool",
         "schoolage"
