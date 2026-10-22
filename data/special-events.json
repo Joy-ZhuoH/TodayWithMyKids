@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T23:59:55-05:00",
+  "updatedAt": "2026-10-22T07:03:08-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -44,6 +44,19 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Cross Stitch Keychain",
+      "when": "28 Oct 6:30 pm - 8:30 pm",
+      "location": "Prairie Rose Needleworks",
+      "url": "https://discoverames.com/events/cross-stitch-keychain/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "ageGroups": [
         "schoolage"
       ]
     },
