@@ -1,20 +1,7 @@
 {
-  "updatedAt": "2026-10-24T11:03:02-05:00",
+  "updatedAt": "2026-10-24T15:57:02-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Howler Growler: DIY Halloween Arrangements",
-      "when": "24 Oct 10:00 am - 12:00 pm",
-      "location": "Wheatsfield Co-op",
-      "url": "https://discoverames.com/events/howler-growler-diy-halloween-arrangements/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "The Howling",
       "when": "24 Oct 1:00 pm - 9:00 pm",
