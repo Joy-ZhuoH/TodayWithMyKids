@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-10-24T18:21:21-05:00",
+  "updatedAt": "2026-10-24T23:53:20-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "The Howling",
-      "when": "24 Oct 1:00 pm - 9:00 pm",
-      "location": "Alluvial Brewing",
-      "url": "https://discoverames.com/events/the-howling-2/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
-    {
-      "title": "Collage of Choirs",
-      "when": "24 Oct 5:30 pm",
-      "location": "Stephens Auditorium",
-      "url": "https://discoverames.com/events/collage-of-choirs-2/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-24",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Cross Stitch Keychain",
       "when": "28 Oct 6:30 pm - 8:30 pm",
