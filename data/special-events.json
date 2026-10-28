@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:53:41-05:00",
+  "updatedAt": "2026-10-28T08:10:22-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -53,6 +53,22 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-10-30",
       "endDate": "2026-10-30",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Trick or Treat at the Co-op",
+      "when": "31 Oct 11:00 am - 1:00 pm",
+      "location": "Wheatsfield Co-op",
+      "url": "https://discoverames.com/events/trick-or-treat-at-the-co-op-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
       "ageGroups": [
         "baby",
         "toddler",
