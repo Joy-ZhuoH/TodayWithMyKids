@@ -1,20 +1,7 @@
 {
-  "updatedAt": "2026-10-28T08:10:22-05:00",
+  "updatedAt": "2026-10-28T15:20:57-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Art Walk: Metals Mastery",
-      "when": "28 Oct 12:00 pm - 1:00 pm",
-      "location": "Morrill Hall, Iowa State University",
-      "url": "https://discoverames.com/events/art-walk-metals-mastery/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "Cross Stitch Keychain",
       "when": "28 Oct 6:30 pm - 8:30 pm",
