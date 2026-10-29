@@ -1,20 +1,7 @@
 {
-  "updatedAt": "2026-10-28T20:01:49-05:00",
+  "updatedAt": "2026-10-29T05:09:13-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Cross Stitch Keychain",
-      "when": "28 Oct 6:30 pm - 8:30 pm",
-      "location": "Prairie Rose Needleworks",
-      "url": "https://discoverames.com/events/cross-stitch-keychain/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-28",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "Halloween Boozy Book Fair",
       "when": "29 Oct 6:00 pm",
@@ -60,6 +47,19 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Cantamus and Lyrica Treble Ensembles – Music of Transformation",
+      "when": "01 Nov 4:30 pm",
+      "location": "Tye Recital Hall",
+      "url": "https://discoverames.com/events/cantamus-and-lyrica-treble-ensembles-music-of-transformation/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "ageGroups": [
         "schoolage"
       ]
     },
