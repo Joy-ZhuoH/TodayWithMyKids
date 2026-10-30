@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-10-30T13:03:57-05:00",
+  "updatedAt": "2026-10-30T17:27:35-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Downtown Trick or Treat",
-      "when": "30 Oct 10:00 am - 1:00 pm",
-      "location": "Downtown Ames",
-      "url": "https://discoverames.com/events/downtown-trick-or-treat-3/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Trick or Treat at the Co-op",
       "when": "31 Oct 11:00 am - 1:00 pm",
