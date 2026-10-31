@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-10-31T07:44:59-05:00",
+  "updatedAt": "2026-10-31T14:21:23-05:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Trick or Treat at the Co-op",
-      "when": "31 Oct 11:00 am - 1:00 pm",
-      "location": "Wheatsfield Co-op",
-      "url": "https://discoverames.com/events/trick-or-treat-at-the-co-op-2/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Cantamus and Lyrica Treble Ensembles – Music of Transformation",
       "when": "01 Nov 4:30 pm",
