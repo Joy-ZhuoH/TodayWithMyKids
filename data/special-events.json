@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T19:10:56-05:00",
+  "updatedAt": "2026-11-01T01:20:57-05:00",
   "windowDays": 120,
   "events": [
     {
@@ -12,6 +12,37 @@
       "startDate": "2026-11-01",
       "endDate": "2026-11-01",
       "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Author Fair",
+      "when": "07 Nov 2:00 pm - 5:00 pm",
+      "location": "Ames Public Library",
+      "url": "https://discoverames.com/events/author-fair-5/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Nature Playdates",
+      "when": "NOV 17 2026 10:00 AM",
+      "location": "McFarland Park",
+      "url": "https://www.mycountyparks.com/County/Story/Park/McFarland-Park/Events/29773/Nature-Playdates",
+      "source": "Story County",
+      "confidence": "主办方已核对",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "ageGroups": [
+        "toddler",
+        "preschool",
         "schoolage"
       ]
     },
