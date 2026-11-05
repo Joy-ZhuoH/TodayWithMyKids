@@ -1,12 +1,6 @@
 {
-  "date": "2026-11-04",
-  "updatedAt": "2026-11-04T19:29:34-06:00",
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T05:08:29-06:00",
   "source": "https://www.amespubliclibrary.org/events/list",
-  "events": [
-    {
-      "name": "Toddler Storytime",
-      "time": "10:30am",
-      "url": "https://www.amespubliclibrary.org/event/toddler-storytime-63018"
-    }
-  ]
+  "events": []
 }
