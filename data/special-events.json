@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-11-07T15:58:03-06:00",
+  "updatedAt": "2026-11-08T00:16:02-06:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Author Fair",
-      "when": "07 Nov 2:00 pm - 5:00 pm",
-      "location": "Ames Public Library",
-      "url": "https://discoverames.com/events/author-fair-5/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-11-07",
-      "endDate": "2026-11-07",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Nature Playdates",
       "when": "NOV 17 2026 10:00 AM",
