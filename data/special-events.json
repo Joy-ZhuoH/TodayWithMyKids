@@ -1,7 +1,23 @@
 {
-  "updatedAt": "2026-11-08T07:39:31-06:00",
+  "updatedAt": "2026-11-08T13:44:50-06:00",
   "windowDays": 120,
   "events": [
+    {
+      "title": "Jazz Night – NKOTB vol. 6",
+      "when": "11 Nov 7:30 pm",
+      "location": "Tye Recital Hall",
+      "url": "https://discoverames.com/events/jazz-night-nkotb-vol-6/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
     {
       "title": "Nature Playdates",
       "when": "NOV 17 2026 10:00 AM",
