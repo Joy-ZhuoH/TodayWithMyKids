@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T18:59:19-06:00",
+  "updatedAt": "2026-11-09T05:46:26-06:00",
   "windowDays": 120,
   "events": [
     {
@@ -20,11 +20,11 @@
     },
     {
       "title": "Nature Playdates",
-      "when": "November 17, 2026, 10:00 AM - 11:00 AM",
+      "when": "NOV 17 2026 10:00 AM",
       "location": "McFarland Park",
-      "url": "https://www.storycountyiowa.gov/Calendar.aspx?EID=3571&month=11&year=2026&day=17&calType=0",
+      "url": "https://www.mycountyparks.com/County/Story/Park/McFarland-Park/Events/29773/Nature-Playdates",
       "source": "Story County",
-      "confidence": "亲子线索 · 请核对",
+      "confidence": "主办方已核对",
       "startDate": "2026-11-17",
       "endDate": "2026-11-17",
       "ageGroups": [
