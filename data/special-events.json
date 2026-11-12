@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-11-11T18:49:06-06:00",
+  "updatedAt": "2026-11-12T05:27:59-06:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Jazz Night – NKOTB vol. 6",
-      "when": "11 Nov 7:30 pm",
-      "location": "Tye Recital Hall",
-      "url": "https://discoverames.com/events/jazz-night-nkotb-vol-6/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-11-11",
-      "endDate": "2026-11-11",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Curator’s Tour: “Rabbit Hill” Reimagined",
       "when": "12 Nov 4:00 pm - 5:00 pm",
@@ -28,6 +12,22 @@
       "startDate": "2026-11-12",
       "endDate": "2026-11-12",
       "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Pop-up Goldfinch Room: Scott Dalziel",
+      "when": "15 Nov 3:00 pm",
+      "location": "Stephens Auditorium",
+      "url": "https://discoverames.com/events/pop-up-goldfinch-room-scott-dalziel/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-15",
+      "endDate": "2026-11-15",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
         "schoolage"
       ]
     },
