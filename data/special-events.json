@@ -1,20 +1,7 @@
 {
-  "updatedAt": "2026-11-12T19:55:16-06:00",
+  "updatedAt": "2026-11-13T05:11:51-06:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Curator’s Tour: “Rabbit Hill” Reimagined",
-      "when": "12 Nov 4:00 pm - 5:00 pm",
-      "location": "Anderson Sculpture Garden",
-      "url": "https://discoverames.com/events/curators-tour-rabbit-hill-reimagined/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-12",
-      "ageGroups": [
-        "schoolage"
-      ]
-    },
     {
       "title": "Pop-up Goldfinch Room: Scott Dalziel",
       "when": "15 Nov 3:00 pm",
