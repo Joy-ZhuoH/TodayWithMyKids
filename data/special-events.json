@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T16:35:11-06:00",
+  "updatedAt": "2026-11-15T00:45:46-06:00",
   "windowDays": 120,
   "events": [
     {
@@ -31,6 +31,19 @@
         "baby",
         "toddler",
         "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Camp Cozy",
+      "when": "20 Nov 3:00 pm - 7:00 pm",
+      "location": "Hansen Agriculture Student Learning Center",
+      "url": "https://discoverames.com/events/camp-cozy/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-20",
+      "ageGroups": [
         "schoolage"
       ]
     },
