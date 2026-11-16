@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T00:44:41-06:00",
+  "updatedAt": "2026-11-16T13:40:53-06:00",
   "windowDays": 120,
   "events": [
     {
@@ -28,6 +28,22 @@
       "startDate": "2026-11-20",
       "endDate": "2026-11-20",
       "ageGroups": [
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Holiday Market",
+      "when": "21 Nov 9:00 am - 3:00 pm",
+      "location": "Reiman Gardens",
+      "url": "https://discoverames.com/events/holiday-market-4/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
         "schoolage"
       ]
     },
