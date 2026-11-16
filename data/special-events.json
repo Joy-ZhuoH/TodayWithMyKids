@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-11-15T16:56:39-06:00",
+  "updatedAt": "2026-11-16T00:44:41-06:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Pop-up Goldfinch Room: Scott Dalziel",
-      "when": "15 Nov 3:00 pm",
-      "location": "Stephens Auditorium",
-      "url": "https://discoverames.com/events/pop-up-goldfinch-room-scott-dalziel/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-11-15",
-      "endDate": "2026-11-15",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Vienna Boys Choir",
       "when": "17 Nov 7:00 pm",
