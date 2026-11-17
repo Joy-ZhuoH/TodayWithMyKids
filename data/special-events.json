@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T21:58:48-06:00",
+  "updatedAt": "2026-11-17T10:12:30-06:00",
   "windowDays": 120,
   "events": [
     {
@@ -36,6 +36,22 @@
       "when": "21 Nov 9:00 am - 3:00 pm",
       "location": "Reiman Gardens",
       "url": "https://discoverames.com/events/holiday-market-4/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Ames Main Street Holiday Farmers’ Market",
+      "when": "21 Nov 9:00 am - 2:00 pm",
+      "location": "Quality Inn & Suites",
+      "url": "https://discoverames.com/events/ames-main-street-holiday-farmers-market-7/",
       "source": "Discover Ames",
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-11-21",
