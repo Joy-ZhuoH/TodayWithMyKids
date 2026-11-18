@@ -1,23 +1,7 @@
 {
-  "updatedAt": "2026-11-17T19:00:07-06:00",
+  "updatedAt": "2026-11-18T05:54:16-06:00",
   "windowDays": 120,
   "events": [
-    {
-      "title": "Vienna Boys Choir",
-      "when": "17 Nov 7:00 pm",
-      "location": "Stephens Auditorium",
-      "url": "https://discoverames.com/events/vienna-boys-choir/",
-      "source": "Discover Ames",
-      "confidence": "亲子线索 · 请核对",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
-      "ageGroups": [
-        "baby",
-        "toddler",
-        "preschool",
-        "schoolage"
-      ]
-    },
     {
       "title": "Camp Cozy",
       "when": "20 Nov 3:00 pm - 7:00 pm",
@@ -64,17 +48,15 @@
       ]
     },
     {
-      "title": "Nature Playdates",
-      "when": "NOV 17 2026 10:00 AM",
-      "location": "McFarland Park",
-      "url": "https://www.mycountyparks.com/County/Story/Park/McFarland-Park/Events/29773/Nature-Playdates",
-      "source": "Story County",
-      "confidence": "主办方已核对",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
+      "title": "Camp Cozy",
+      "when": "21 Nov 10:00 am - 4:00 pm",
+      "location": "Hansen Agriculture Student Learning Center",
+      "url": "https://discoverames.com/events/camp-cozy-2/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
       "ageGroups": [
-        "toddler",
-        "preschool",
         "schoolage"
       ]
     },
