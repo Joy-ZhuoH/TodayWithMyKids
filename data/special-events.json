@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T06:42:27-06:00",
+  "updatedAt": "2026-11-27T17:31:00-06:00",
   "windowDays": 120,
   "events": [
     {
@@ -59,6 +59,22 @@
       "confidence": "亲子线索 · 请核对",
       "startDate": "2026-11-29",
       "endDate": "2026-11-29",
+      "ageGroups": [
+        "baby",
+        "toddler",
+        "preschool",
+        "schoolage"
+      ]
+    },
+    {
+      "title": "Denver Bierman & The Mile High Orchestra",
+      "when": "02 Dec 7:00 pm",
+      "location": "Bethesda Lutheran Church",
+      "url": "https://discoverames.com/events/denver-bierman-the-mile-high-orchestra/",
+      "source": "Discover Ames",
+      "confidence": "亲子线索 · 请核对",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
       "ageGroups": [
         "baby",
         "toddler",
